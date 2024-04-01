@@ -1,3 +1,23 @@
-# RoadMap
-This is my learning road map of software engineering
-I am going to solve 2 Apptitude question per day 
+# I am going to write here mini programs
+<br>
+Day1
+HelloWorld in C
+#include<stdio.h>
+int main(){
+println("Helloworld");
+return 0;
+}
+HelloWorld in c++
+#include <iostream.io>
+int main(){
+cout<<"Helloworld";
+return 0;
+}
+HelloWorld in python
+print("helloworld")
+Helloworld in java
+public class Helloworld{
+public static void main(String args[]){
+System.out.println("HelloWorld");
+}
+}
